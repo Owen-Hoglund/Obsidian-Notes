@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "ffab74c950afd9d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f59f2a0fa3cc9e2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Class Variables.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23fd9c8ee43835b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "72296382bbaa7604",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a58f3694d7b15429",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d1a35a91e5ba72d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "emp",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "054170f90d1673af",
+    "type": "split",
+    "children": [
+      {
+        "id": "92fd75b30e0e1262",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45d1e08e41383030",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Class Variables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2f59f2a0fa3cc9e2",
+  "lastOpenFiles": [
+    "Class Variables.md",
+    "Inheritance.md",
+    "Methods - Class, Static, and Regular.md",
+    "Method Code Reference Full Code.md",
+    "Numpy.md",
+    "Special Methods.md",
+    "[.md",
+    "Data Analysis with Python - Notes.md",
+    "decorator.md",
+    "Class Methods.md"
+  ]
+}

@@ -2,6 +2,7 @@
 aliases: [Static Methods, Class Methods]
 ---
 ## Class Methods
+Methods belonging to [[Classes]].
 - Automatically takes the _class_ as the first argument (by convention `cls`)
 - to make a method into a class method, use the [[decorator]] `@classmethod`
 

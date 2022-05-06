@@ -1,0 +1,3 @@
+"A **Regular Expressions (RegEx)** is a special sequence of characters that uses a search pattern to find a string or set of strings. It can detect the presence or absence of a text by matching with a particular pattern, and also can split a pattern into one or more sub-patterns. Python provides a **[[Useful Libraries#re]]** module that supports the use of regex in Python. Its primary function is to offer a search, where it takes a regular expression and a string." -[g4g](https://www.geeksforgeeks.org/regular-expression-python-examples-set-1/)
+
+[Check if email address valid or not in Python](https://www.geeksforgeeks.org/check-if-email-address-valid-or-not-in-python/) -g4g

@@ -1,0 +1,1 @@
+`MIN()` and `MAX()` returns the highest and lowest values in a given column, respectively. 

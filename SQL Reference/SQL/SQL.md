@@ -1,0 +1,1 @@
+SQL, Structured Query Language, is a programming language designed to manage data stored in Relational Databases. SQL operates through simple, declarative [[SQL Statements]], made up of [[SQL Operators]]s and [[SQL Constraints]]. This keeps data accurate and secure, and helps maintain the integrity of databases, regardless of size.

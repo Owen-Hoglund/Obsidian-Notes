@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "fa68e2e1b16b2d1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9519c2264c0eedd8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Combining Tables.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07d830f135891385",
+    "type": "split",
+    "children": [
+      {
+        "id": "904a98e5730191e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed3f675123fe6547",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6239be9a1e1c89c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "order by",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221
+  },
+  "right": {
+    "id": "f45da806ff310d65",
+    "type": "split",
+    "children": [
+      {
+        "id": "a528b156f580b837",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bbb87fe152a2515",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Combining Tables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d43ab17506cddb51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9519c2264c0eedd8",
+  "lastOpenFiles": [
+    "Combining Tables.md",
+    "Primary and Foreign Keys.md",
+    "SQL/Aggregate Functions.md",
+    "INSERT INTO.md",
+    "SQL/Aggregate Functions/AGGREGATES.md",
+    "With.md",
+    "MySQL Cheat Sheet.md",
+    "MySQL Tutorial Notes.md",
+    "SQL/SQL Statements Keywords Commands/ORDER BY.md",
+    "SQL/Aggregate Functions/GROUP BY.md"
+  ]
+}

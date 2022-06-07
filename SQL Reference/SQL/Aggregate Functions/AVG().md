@@ -1,0 +1,1 @@
+AVG() calculates the average value from a given column.

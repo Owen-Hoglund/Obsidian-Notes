@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Interpreter/if __name__ == '__main__'.md",
+            "file": "Opening a file in Jupiter using Python.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interpreter/if __name__ == '__main__'.md",
+                "file": "Opening a file in Jupiter using Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "2f59f2a0fa3cc9e2",
   "lastOpenFiles": [
-    "Interpreter/if __name__ == '__main__'.md",
-    "decorator.md",
-    "Guides.md",
-    "matplotlib.md",
-    "Data Analysis with Python - Notes.md",
+    "Opening a file in Jupiter using Python.md",
+    "Pandas.md",
+    "Python Threading.md",
+    "threading example.md",
     "namespace.md",
-    "OOP/Class Variables.md",
-    "Class Variables.md",
-    "Inheritance.md",
-    "Methods - Class, Static, and Regular.md"
+    "matplotlib.md",
+    "Interpreter/if __name__ == '__main__'.md",
+    "Guides.md",
+    "Python.md",
+    "Useful Libraries.md"
   ]
 }

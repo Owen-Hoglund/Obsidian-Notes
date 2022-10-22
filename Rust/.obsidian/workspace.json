@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "bc17322e50969cf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6617f4889e9df6ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00447a03e1730199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Rust Programming Language Book.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "392f1eea800acf89",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6cfa7593b039c0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68db37c69baa1c23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "3e478e16377db4db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "##",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39826a39f2881553",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "37bce7f364567b00",
+    "type": "split",
+    "children": [
+      {
+        "id": "91c95d8ce91bad0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "246929bfdd85553f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Rust Programming Language Book.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf53e3c4c3bc10c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Rust Programming Language Book.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "319d867fb6d8f8c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "400d7484eea31d43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Rust Programming Language Book.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e4809e5379c9aa7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Rust Programming Language Book.md"
+              }
+            }
+          },
+          {
+            "id": "96fd708764f7aa11",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8f6820c69b7eeea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Useful Tools to Return to Learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 410.5
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "00447a03e1730199",
+  "lastOpenFiles": [
+    "Useful Tools to Return to Learn.md",
+    "The Rust Programming Language Book.md",
+    "Definitions.md",
+    "Notes from Crash Course Video/Rust.md",
+    "Notes from Crash Course Video/types/Arrays and Vectors.md",
+    "Untitled 1.md",
+    "Notes from Crash Course Video/types/Tuples.md",
+    "Notes from Crash Course Video/types/Strings.md",
+    "Notes from Crash Course Video/Functions.md",
+    "Notes from Crash Course Video/Quick Reference Sheet for interview.md"
+  ]
+}

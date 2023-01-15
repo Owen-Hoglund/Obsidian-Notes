@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "862eb06204b1dd1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "506823315b3a12da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25cab29590d0d985",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Async Await Task.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3db31ad4dcc2e65c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e261b35a5be27e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd7ba79b84177e08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UnityAction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50f14dfa74353503",
+    "type": "split",
+    "children": [
+      {
+        "id": "15d5544451fa2bc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f76d385c0b45c286",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae6d0ee47a26c3a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f35a547c800f4103",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef9082261527a72d",
+    "type": "split",
+    "children": [
+      {
+        "id": "40b66314d07170ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8e3cfd24e3afd98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Async Await Task.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "057cedb041b97e26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Async Await Task.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ed4e1da0a7a4318",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8250ad289d4e66e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Async Await Task.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "25cab29590d0d985",
+  "lastOpenFiles": [
+    "Task.md",
+    "UnityAction.md",
+    "Notes/Lambda Expressions and Delegates.md",
+    "Async Await Task.md",
+    "Events.md",
+    "Empty Notes/Expression Lambda.md",
+    "Empty Notes/Statement Lambda.md",
+    "Tags.md",
+    "Table of Contents.md",
+    "Notes/Notes.md"
+  ]
+}

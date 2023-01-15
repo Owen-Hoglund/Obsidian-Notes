@@ -1,8 +1,8 @@
 # File Stream in Rust
-To begin, youll want to employ some `use` declarations
+To begin, you'll want to employ some `use` declarations
 ```
-use std::fs::File
-use std::io::prelude::*
+use std::fs::File;
+use std::io::prelude::*;
 ```
 
 ## The following is for Reading and Writing text files

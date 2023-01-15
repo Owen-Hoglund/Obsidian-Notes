@@ -19,3 +19,6 @@ fn main() {
 Now we can easily print out the values of a struct as they are at a given moment.
 
 # Debug
+
+# Option
+Definitely want to return to this asap

@@ -1,0 +1,1 @@
+A unity action is a custom [[Lambda Expressions and Delegates|delegate]].  

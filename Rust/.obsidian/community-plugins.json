@@ -1,5 +1,6 @@
 [
   "table-editor-obsidian",
   "cm-editor-syntax-highlight-obsidian",
-  "execute-code"
+  "execute-code",
+  "cm-typewriter-scroll-obsidian"
 ]

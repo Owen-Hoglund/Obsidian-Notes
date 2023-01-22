@@ -1,0 +1,7 @@
+- [[Rust]]
+- [[SQL]]
+- [[DotNET]]
+- [[Git]]
+- [[Java]]
+- [[Python]]
+- [[Unity]]

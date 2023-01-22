@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "fd990a0f0987cc80",
+    "type": "split",
+    "children": [
+      {
+        "id": "293d2dbc17abaf8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aa6532687ca3880",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Tutorials and Guides/Requests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47127683af5278b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Tutorials and Guides/CI-CD/Azure/Azure Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b357a8b8e35d052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DotNET/DotNET.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08df8cbe14c0d2c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Guides and Tutorials/Branching.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98fc0871aeb8f5f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/Definitions and References/Definitions/Operators.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95aa6c336a202536",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "2fd80546079a0ed8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Table of Contents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a52ad470d141fd59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45466915bb0847ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Table of Contents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "182bd89797b95aeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3bbea67f19d2381",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "433457199c767b89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/Definitions and References/References/Quick References.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51d7f059b0e73479",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a48b1dfdab89288d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b787871462e52b2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77f5137810b4b708",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0bf33c7a0fd36ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#learn",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a22cc7ad654432ad",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49de85cd46ed5ce0",
+    "type": "split",
+    "children": [
+      {
+        "id": "06dbc5b7eeb5dd14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f243e6948138c55a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "unfinished",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4851a1fe3d3af6c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e06e3b49849ebc2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "04b7f986f9e0d216",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a3bbea67f19d2381",
+  "lastOpenFiles": [
+    "SQL/SQL.md",
+    "Unity/Tutorials and Guides/Tutorials and Guides.md",
+    "SQL/Tutorials and Guides/Tutorials and Guides.md",
+    "Table of Contents.md",
+    "Unity/Unity.md",
+    "Python/Python.md",
+    "Python/Definitions and References/Definitions and References - Python.md",
+    "DotNET/DotNET.md",
+    "Git/Guides and Tutorials/Guides and Tutorials - Git.md",
+    "Rust/Rust.md"
+  ]
+}

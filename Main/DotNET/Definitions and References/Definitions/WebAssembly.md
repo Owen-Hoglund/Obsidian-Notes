@@ -1,0 +1,1 @@
+WASM is an open binary standard. It defines a portable code format for programs designed to run in web browsers. WASm is a textual assembly langauge with a compact binary format for fast downloads and near native performance. 

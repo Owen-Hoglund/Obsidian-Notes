@@ -1,0 +1,1 @@
+The `[HttpPost]` attribute tells the routing engine to send any POST requests to that action method.

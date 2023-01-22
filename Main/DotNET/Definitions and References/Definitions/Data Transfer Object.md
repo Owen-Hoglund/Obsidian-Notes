@@ -1,0 +1,1 @@
+A Data Transfer Object (DTO) is an object that defines the data that will be sent over the network. 

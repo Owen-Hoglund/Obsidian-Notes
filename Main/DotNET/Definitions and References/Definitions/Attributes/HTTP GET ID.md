@@ -1,0 +1,1 @@
+`[HttpGet("{id}")]` - this attribute defines a method that will return a data type with a given `id`
